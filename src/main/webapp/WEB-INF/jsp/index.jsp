@@ -56,7 +56,7 @@
                     <input type="number" step="0.1" class="form-control" id="timeConsumed" placeholder="Enter Time Consumed" name="time" required>
                 </div>
                 <div class="form-group">
-                    <label for="connectedLoad"><b>Connected Load (Watt)</b></label>
+                    <label for="connectedLoad"><b>Connected Load (KWh)</b></label>
                     <input type="number" step="0.1" class="form-control" id="connectedLoad" placeholder="Enter Connected Load" name="load" disabled required>
                 </div>
                   <button type="submit" class="btn  mt-4"><b>Calculate</b></button>
