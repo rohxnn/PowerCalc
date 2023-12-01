@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class PowerCalcApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PowerCalcApplication.class, args);
+		SpringApplication.run(PowerCalcApplication.class, args
 	}
 
 }
